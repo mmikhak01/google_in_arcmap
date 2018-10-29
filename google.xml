@@ -21,7 +21,7 @@
             <TileMatrixSetLink>
                 <TileMatrixSet>google3857</TileMatrixSet>
             </TileMatrixSetLink>
-            <ResourceURL format="image/png" template="https://mt.google.com/vt/lyrs=s@4&amp;x={TileCol}&amp;y={TileRow}&amp;z={TileMatrix}" resourceType="tile"/>
+            <ResourceURL format="image/png" template="http://mt0.google.com/vt/lyrs=y&hl=en&x={TileCol}&y={TileRow}&z={TileMatrix}&s=Ga" resourceType="tile"/>
         </Layer>
         <Layer>
             <ows:Title>Google - Streets</ows:Title>
